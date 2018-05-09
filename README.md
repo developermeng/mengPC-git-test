@@ -1,1 +1,1 @@
-一场游戏一场梦，梦里花落知多少
+easy random number
