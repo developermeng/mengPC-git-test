@@ -1,3 +1,1 @@
-easy random number
-and test branch
-success
+2018-5-30 test
