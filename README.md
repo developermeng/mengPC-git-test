@@ -1,3 +1,1 @@
-easy random number
-and test branch
-success
+This is a test for github
